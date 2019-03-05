@@ -8,9 +8,11 @@ Food Friend Finder was created for the Friend Finder (Node and Express Servers) 
 
 `npm i` will install the following:
 
--npm install express
--npm install body-parser
--npm install path
+* `npm install express`
+
+* `npm install body-parser`
+
+* `npm install path`
 
 **Demo Video**
 
